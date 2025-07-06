@@ -1,6 +1,5 @@
-import networkx as nx
-
 def build_curriculum():
+    import networkx as nx
     G = nx.DiGraph()
     G.add_edges_from([
         ("CS101", "CS102"),

@@ -1,3 +1,4 @@
+````md
 # AI Curriculum Planner – Adaptive Academic Advising Using Reinforcement Learning
 
 This project simulates a university academic advising system using reinforcement learning (RL) and curriculum graph modeling. It generates personalized course recommendations for 100 students based on interests, GPA, and prerequisite constraints.
